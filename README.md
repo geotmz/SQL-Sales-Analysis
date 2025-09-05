@@ -36,7 +36,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Cohorts were grouped by year of first purchase
 - Analyzed customer retention at a cohort level
 
-🖥️ Query: [2_cohort_analysis.sql](2_cohort_analysis.sql)
+🖥️ Query: [2_cohort_analysis.sql](2_cohord_analysis.sql)
 
 **📈 Visualization:**
 
