@@ -1,4 +1,4 @@
-# Intermediate SQL - Sales Analysis
+# E-commerce Company Sales Analysis with SQL
 
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
@@ -92,5 +92,5 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
+- **Analysis Tools:** PostgreSQL, DBeaver, pgAdmin
 - **Visualization:** ChatGPT
